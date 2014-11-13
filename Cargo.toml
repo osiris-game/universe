@@ -1,0 +1,8 @@
+[package]
+
+name = "universe"
+version = "0.0.1"
+authors = ["csguest"]
+
+[dependencies.net]
+path = "../net"
