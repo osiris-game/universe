@@ -8,7 +8,7 @@ dependencies = [
 [[package]]
 name = "capnp"
 version = "0.1.0"
-source = "git+https://github.com/dwrensha/capnproto-rust.git#dea1f7ed547e4b6396b298e071d0c6c0d4082e5f"
+source = "git+https://github.com/dwrensha/capnproto-rust.git#eff80436f6ac3048bbc432698dc192d2b925ce8f"
 
 [[package]]
 name = "net"
